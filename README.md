@@ -28,3 +28,6 @@ Google Gemini API
 Express.js
 
 JavaScript
+
+⚠️⚠️
+This project was created during my learning phase to understand real-time communication using Socket.IO and AI integration.
