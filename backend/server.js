@@ -30,7 +30,7 @@ io.on("connection", (socket) => {
         role:"user",
         parts:[{text:data}]
       })
-console.log(chatHistory[0].parts);
+// console.log(chatHistory[0].parts);
 
 const response=await generateResponse(chatHistory);
 
