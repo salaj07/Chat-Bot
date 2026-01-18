@@ -35,7 +35,7 @@ io.on("connection", (socket) => {
 
 const response=await generateResponse(chatHistory);
 
-// console.log(chatHistory[1].parts);
+
 
       chatHistory.push({
         role:"model",
